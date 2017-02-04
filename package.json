@@ -1,0 +1,22 @@
+{
+    "name": "theme-coda",
+    "displayName": "Coda",
+    "description": "",
+    "version": "0.0.4",
+    "publisher": "jasen",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coda",
+                "uiTheme": "vs",
+                "path": "./themes/Coda.tmTheme"
+            }
+        ]
+    }
+}
