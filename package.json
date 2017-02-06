@@ -1,8 +1,8 @@
 {
     "name": "theme-coda",
     "displayName": "Coda",
-    "description": "",
-    "version": "0.0.4",
+    "description": "A theme look like Coda",
+    "version": "0.0.6",
     "publisher": "jasen",
     "engines": {
         "vscode": "^1.5.0"
@@ -18,5 +18,26 @@
                 "path": "./themes/Coda.tmTheme"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/scsidisk/vscode-theme-coda.git"
+    },
+    "bugs": {
+        "url": "https://github.com/scsidisk/vscode-theme-coda/issues"
+    },
+    "homepage": "https://github.com/scsidisk/vscode-theme-coda/blob/master/README.md",
+    "keywords": [
+        "VSCode",
+        "Theme",
+        "Coda",
+        "Light"
+    ],
+    "author": "Jasen <jasen2339@gmail.com> (https://github.com/scsidisk)",
+    "license": "MIT"
 }
+
+
+
+
+
