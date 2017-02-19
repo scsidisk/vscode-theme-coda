@@ -1,10 +1,11 @@
 # Coda Theme
 
 [![Join the chat at https://gitter.im/scsidisk/vscode-theme-coda](https://badges.gitter.im/scsidisk/vscode-theme-coda.svg)](https://gitter.im/scsidisk/vscode-theme-coda?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Version](http://vsmarketplacebadge.apphb.com/version/jasen.theme-coda.svg)](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda) [![Installs](http://vsmarketplacebadge.apphb.com/installs-short/jasen.theme-coda.svg)](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda) [![Ratings](http://vsmarketplacebadge.apphb.com/rating-short/jasen.theme-coda.svg)](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda) [![GitHub stars](https://img.shields.io/github/stars/scsidisk/vscode-theme-coda.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scsidisk/vscode-theme-coda)
 
 A theme look like Coda
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/jasen.theme-coda.svg)](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda) [![Installs](http://vsmarketplacebadge.apphb.com/installs-short/jasen.theme-coda.svg)](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda) [![Ratings](http://vsmarketplacebadge.apphb.com/rating-short/jasen.theme-coda.svg)](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda) [![GitHub stars](https://img.shields.io/github/stars/scsidisk/vscode-theme-coda.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scsidisk/vscode-theme-coda)
+
 
 
 ## Install
