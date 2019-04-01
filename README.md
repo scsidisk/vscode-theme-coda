@@ -18,7 +18,7 @@ ext install theme-coda
 ## Screenshot
 Screenshot of Ruby and JavaScript
 
-![Theme Screenshot](http://7xqmjb.com1.z0.glb.clouddn.com/201702041760theme-coda.png)
+![Theme Screenshot](https://raw.githubusercontent.com/scsidisk/vscode-theme-coda/master/theme-coda.png)
 
 If you like this theme checkout [Coda Theme](https://marketplace.visualstudio.com/items?itemName=jasen.theme-coda)
 
